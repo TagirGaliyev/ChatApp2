@@ -37,5 +37,6 @@ public class Client {
         }
         System.out.println("Connection is closed. Good bye!");
         //Bye
+        //Inside encryption_protocol
     }
 }
